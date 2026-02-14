@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎯 I'm focusing on **Fullstack Web Development**
-- 💻 Tech: **React, Node.js, MySQL, SQL Server**
+- 💻 Tech: **React, Next, Node.js, MySQL, SQL Server**
 - 📚 Currently learning: **FastAPI, Docker, Spring Boot**
 - 🌏 From Vietnam 🇻🇳
 
