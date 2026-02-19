@@ -66,10 +66,10 @@
 👉 https://github.com/HoQuocNam92/Ecommerce-FullStacks
 
 🔹 **Book Store Fullstack**  
-👉 (bạn đổi repo này sang public rồi dán link vào)
+👉 (Đang làm nên chưa public nhé )
 
 🔹 **Deep Learning (EfficientNet + FastAPI)**  
-👉 (dán link repo nếu public)
+👉 (Đang làm nên chưa public nhé )
 
 ---
 
